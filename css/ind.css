@@ -77,6 +77,12 @@ p{
 
 }
 
+.cont48{
+    margin: 100px 50px 100px 50px ;
+    position: relative;
+    bottom: 1600px;
+}
+
 #barra{
     color: black;
 }
