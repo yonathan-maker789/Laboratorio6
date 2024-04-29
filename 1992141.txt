@@ -1,0 +1,12 @@
+Rafael Lee Vera
+
+https://github.com/Leethe99/Laboratorio-6
+
+le cambie el navbar de 
+
+<a class="nav-link active" aria-current="page" href="file:///C:/Users/yonat/Desktop/Tareas%20de%20regreso%20a%20clases/2173865_238_LAB6_PWEB_LAB/1.3%20Actividades/Laboratorio6/index.html">Index</a>
+
+de asi,
+se tiene que hacer asi 
+
+<a class="nav-link active" aria-current="page" href="index.html">Index</a>
